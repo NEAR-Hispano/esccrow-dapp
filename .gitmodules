@@ -1,0 +1,3 @@
+[submodule "esccrow"]
+	path = esccrow
+	url = https://github.com/fintechla/esccrow.git
