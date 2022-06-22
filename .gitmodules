@@ -1,3 +1,6 @@
 [submodule "esccrow"]
 	path = esccrow
 	url = https://github.com/fintechla/esccrow.git
+[submodule "contract"]
+	path = contract
+	url = https://github.com/fintechla/esccrow.git
